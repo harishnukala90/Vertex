@@ -1,0 +1,5 @@
+{
+  "name": "Vertex",
+  "description": "A multimodal AI companion with Friend and Teacher archetypes, featuring voice interaction, agent capabilities, and social awareness.",
+  "requestFramePermissions": ["microphone"]
+}
